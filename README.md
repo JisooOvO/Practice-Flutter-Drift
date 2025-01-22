@@ -1,3 +1,3 @@
-# practice_flutter_drift
+# Practice Flutter Drift
 
-A new Flutter project.
+플러터 Sqflite(Drift) 연동 연습용 레포지토리입니다.
